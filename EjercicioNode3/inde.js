@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-console.log(chalk.blue("Iván Rodríguez Marchán"));
+console.log(chalk.blue("Federico Garcia Lorca"));
 console.log(chalk.bgMagenta("Tengo sueño"));
 const tareas = [
     { title: 'Tarea 1', completed: true },
